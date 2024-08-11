@@ -1,0 +1,134 @@
+2024-08-11 13:23:46,798:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-08-11 13:23:46,798:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-08-11 13:23:46,798:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-08-11 13:23:46,798:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-08-11 13:24:13,901:INFO:PyCaret RegressionExperiment
+2024-08-11 13:24:13,901:INFO:Logging name: reg-default-name
+2024-08-11 13:24:13,901:INFO:ML Usecase: MLUsecase.REGRESSION
+2024-08-11 13:24:13,904:INFO:version 3.3.2
+2024-08-11 13:24:13,904:INFO:Initializing setup()
+2024-08-11 13:24:13,904:INFO:self.USI: db3d
+2024-08-11 13:24:13,905:INFO:self._variable_keys: {'gpu_n_jobs_param', 'USI', 'logging_param', 'exp_name_log', '_ml_usecase', 'gpu_param', 'y', 'fold_generator', 'fold_groups_param', 'exp_id', 'n_jobs_param', 'log_plots_param', 'memory', 'fold_shuffle_param', 'X_test', 'seed', 'data', 'pipeline', 'idx', 'X_train', 'y_train', 'target_param', '_available_plots', 'y_test', 'transform_target_param', 'html_param', 'X'}
+2024-08-11 13:24:13,905:INFO:Checking environment
+2024-08-11 13:24:13,905:INFO:python_version: 3.9.7
+2024-08-11 13:24:13,905:INFO:python_build: ('default', 'Sep 16 2021 16:59:28')
+2024-08-11 13:24:13,905:INFO:machine: AMD64
+2024-08-11 13:24:13,905:INFO:platform: Windows-10-10.0.19045-SP0
+2024-08-11 13:24:13,907:INFO:Memory: svmem(total=68473389056, available=57205407744, percent=16.5, used=11267981312, free=57205407744)
+2024-08-11 13:24:13,907:INFO:Physical Core: 8
+2024-08-11 13:24:13,907:INFO:Logical Core: 16
+2024-08-11 13:24:13,907:INFO:Checking libraries
+2024-08-11 13:24:13,907:INFO:System:
+2024-08-11 13:24:13,907:INFO:    python: 3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)]
+2024-08-11 13:24:13,907:INFO:executable: c:\Users\ksk01\anaconda3\python.exe
+2024-08-11 13:24:13,907:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-08-11 13:24:13,907:INFO:PyCaret required dependencies:
+2024-08-11 13:25:10,119:INFO:PyCaret RegressionExperiment
+2024-08-11 13:25:10,119:INFO:Logging name: reg-default-name
+2024-08-11 13:25:10,119:INFO:ML Usecase: MLUsecase.REGRESSION
+2024-08-11 13:25:10,119:INFO:version 3.3.2
+2024-08-11 13:25:10,119:INFO:Initializing setup()
+2024-08-11 13:25:10,119:INFO:self.USI: ed41
+2024-08-11 13:25:10,119:INFO:self._variable_keys: {'gpu_n_jobs_param', 'USI', 'logging_param', 'exp_name_log', '_ml_usecase', 'gpu_param', 'y', 'fold_generator', 'fold_groups_param', 'exp_id', 'n_jobs_param', 'log_plots_param', 'memory', 'fold_shuffle_param', 'X_test', 'seed', 'data', 'pipeline', 'idx', 'X_train', 'y_train', 'target_param', '_available_plots', 'y_test', 'transform_target_param', 'html_param', 'X'}
+2024-08-11 13:25:10,119:INFO:Checking environment
+2024-08-11 13:25:10,120:INFO:python_version: 3.9.7
+2024-08-11 13:25:10,120:INFO:python_build: ('default', 'Sep 16 2021 16:59:28')
+2024-08-11 13:25:10,120:INFO:machine: AMD64
+2024-08-11 13:25:10,120:INFO:platform: Windows-10-10.0.19045-SP0
+2024-08-11 13:25:10,122:INFO:Memory: svmem(total=68473389056, available=56981843968, percent=16.8, used=11491545088, free=56981843968)
+2024-08-11 13:25:10,122:INFO:Physical Core: 8
+2024-08-11 13:25:10,122:INFO:Logical Core: 16
+2024-08-11 13:25:10,122:INFO:Checking libraries
+2024-08-11 13:25:10,122:INFO:System:
+2024-08-11 13:25:10,122:INFO:    python: 3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)]
+2024-08-11 13:25:10,122:INFO:executable: c:\Users\ksk01\anaconda3\python.exe
+2024-08-11 13:25:10,122:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-08-11 13:25:10,122:INFO:PyCaret required dependencies:
+2024-08-11 13:25:18,068:INFO:PyCaret RegressionExperiment
+2024-08-11 13:25:18,068:INFO:Logging name: reg-default-name
+2024-08-11 13:25:18,068:INFO:ML Usecase: MLUsecase.REGRESSION
+2024-08-11 13:25:18,069:INFO:version 3.3.2
+2024-08-11 13:25:18,069:INFO:Initializing setup()
+2024-08-11 13:25:18,069:INFO:self.USI: fa00
+2024-08-11 13:25:18,069:INFO:self._variable_keys: {'gpu_n_jobs_param', 'USI', 'logging_param', 'exp_name_log', '_ml_usecase', 'gpu_param', 'y', 'fold_generator', 'fold_groups_param', 'exp_id', 'n_jobs_param', 'log_plots_param', 'memory', 'fold_shuffle_param', 'X_test', 'seed', 'data', 'pipeline', 'idx', 'X_train', 'y_train', 'target_param', '_available_plots', 'y_test', 'transform_target_param', 'html_param', 'X'}
+2024-08-11 13:25:18,069:INFO:Checking environment
+2024-08-11 13:25:18,069:INFO:python_version: 3.9.7
+2024-08-11 13:25:18,069:INFO:python_build: ('default', 'Sep 16 2021 16:59:28')
+2024-08-11 13:25:18,069:INFO:machine: AMD64
+2024-08-11 13:25:18,069:INFO:platform: Windows-10-10.0.19045-SP0
+2024-08-11 13:25:18,071:INFO:Memory: svmem(total=68473389056, available=56876122112, percent=16.9, used=11597266944, free=56876122112)
+2024-08-11 13:25:18,071:INFO:Physical Core: 8
+2024-08-11 13:25:18,072:INFO:Logical Core: 16
+2024-08-11 13:25:18,072:INFO:Checking libraries
+2024-08-11 13:25:18,072:INFO:System:
+2024-08-11 13:25:18,072:INFO:    python: 3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)]
+2024-08-11 13:25:18,072:INFO:executable: c:\Users\ksk01\anaconda3\python.exe
+2024-08-11 13:25:18,072:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-08-11 13:25:18,072:INFO:PyCaret required dependencies:
+2024-08-11 13:29:16,351:INFO:PyCaret RegressionExperiment
+2024-08-11 13:29:16,351:INFO:Logging name: reg-default-name
+2024-08-11 13:29:16,351:INFO:ML Usecase: MLUsecase.REGRESSION
+2024-08-11 13:29:16,351:INFO:version 3.3.2
+2024-08-11 13:29:16,351:INFO:Initializing setup()
+2024-08-11 13:29:16,351:INFO:self.USI: 3fa1
+2024-08-11 13:29:16,351:INFO:self._variable_keys: {'gpu_n_jobs_param', 'USI', 'logging_param', 'exp_name_log', '_ml_usecase', 'gpu_param', 'y', 'fold_generator', 'fold_groups_param', 'exp_id', 'n_jobs_param', 'log_plots_param', 'memory', 'fold_shuffle_param', 'X_test', 'seed', 'data', 'pipeline', 'idx', 'X_train', 'y_train', 'target_param', '_available_plots', 'y_test', 'transform_target_param', 'html_param', 'X'}
+2024-08-11 13:29:16,351:INFO:Checking environment
+2024-08-11 13:29:16,351:INFO:python_version: 3.9.7
+2024-08-11 13:29:16,351:INFO:python_build: ('default', 'Sep 16 2021 16:59:28')
+2024-08-11 13:29:16,351:INFO:machine: AMD64
+2024-08-11 13:29:16,351:INFO:platform: Windows-10-10.0.19045-SP0
+2024-08-11 13:29:16,353:INFO:Memory: svmem(total=68473389056, available=57049014272, percent=16.7, used=11424374784, free=57049014272)
+2024-08-11 13:29:16,353:INFO:Physical Core: 8
+2024-08-11 13:29:16,353:INFO:Logical Core: 16
+2024-08-11 13:29:16,353:INFO:Checking libraries
+2024-08-11 13:29:16,353:INFO:System:
+2024-08-11 13:29:16,353:INFO:    python: 3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)]
+2024-08-11 13:29:16,353:INFO:executable: c:\Users\ksk01\anaconda3\python.exe
+2024-08-11 13:29:16,353:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-08-11 13:29:16,354:INFO:PyCaret required dependencies:
+2024-08-11 13:29:41,195:INFO:PyCaret RegressionExperiment
+2024-08-11 13:29:41,195:INFO:Logging name: reg-default-name
+2024-08-11 13:29:41,195:INFO:ML Usecase: MLUsecase.REGRESSION
+2024-08-11 13:29:41,195:INFO:version 3.3.2
+2024-08-11 13:29:41,195:INFO:Initializing setup()
+2024-08-11 13:29:41,195:INFO:self.USI: 5f1a
+2024-08-11 13:29:41,195:INFO:self._variable_keys: {'gpu_n_jobs_param', 'USI', 'logging_param', 'exp_name_log', '_ml_usecase', 'gpu_param', 'y', 'fold_generator', 'fold_groups_param', 'exp_id', 'n_jobs_param', 'log_plots_param', 'memory', 'fold_shuffle_param', 'X_test', 'seed', 'data', 'pipeline', 'idx', 'X_train', 'y_train', 'target_param', '_available_plots', 'y_test', 'transform_target_param', 'html_param', 'X'}
+2024-08-11 13:29:41,195:INFO:Checking environment
+2024-08-11 13:29:41,195:INFO:python_version: 3.9.7
+2024-08-11 13:29:41,195:INFO:python_build: ('default', 'Sep 16 2021 16:59:28')
+2024-08-11 13:29:41,195:INFO:machine: AMD64
+2024-08-11 13:29:41,195:INFO:platform: Windows-10-10.0.19045-SP0
+2024-08-11 13:29:41,198:INFO:Memory: svmem(total=68473389056, available=57141276672, percent=16.5, used=11332112384, free=57141276672)
+2024-08-11 13:29:41,198:INFO:Physical Core: 8
+2024-08-11 13:29:41,198:INFO:Logical Core: 16
+2024-08-11 13:29:41,198:INFO:Checking libraries
+2024-08-11 13:29:41,198:INFO:System:
+2024-08-11 13:29:41,198:INFO:    python: 3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)]
+2024-08-11 13:29:41,198:INFO:executable: c:\Users\ksk01\anaconda3\python.exe
+2024-08-11 13:29:41,198:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-08-11 13:29:41,198:INFO:PyCaret required dependencies:
+2024-08-11 13:31:01,515:INFO:PyCaret RegressionExperiment
+2024-08-11 13:31:01,515:INFO:Logging name: reg-default-name
+2024-08-11 13:31:01,515:INFO:ML Usecase: MLUsecase.REGRESSION
+2024-08-11 13:31:01,515:INFO:version 3.3.2
+2024-08-11 13:31:01,515:INFO:Initializing setup()
+2024-08-11 13:31:01,515:INFO:self.USI: e893
+2024-08-11 13:31:01,515:INFO:self._variable_keys: {'gpu_n_jobs_param', 'USI', 'logging_param', 'exp_name_log', '_ml_usecase', 'gpu_param', 'y', 'fold_generator', 'fold_groups_param', 'exp_id', 'n_jobs_param', 'log_plots_param', 'memory', 'fold_shuffle_param', 'X_test', 'seed', 'data', 'pipeline', 'idx', 'X_train', 'y_train', 'target_param', '_available_plots', 'y_test', 'transform_target_param', 'html_param', 'X'}
+2024-08-11 13:31:01,515:INFO:Checking environment
+2024-08-11 13:31:01,515:INFO:python_version: 3.9.7
+2024-08-11 13:31:01,515:INFO:python_build: ('default', 'Sep 16 2021 16:59:28')
+2024-08-11 13:31:01,515:INFO:machine: AMD64
+2024-08-11 13:31:01,515:INFO:platform: Windows-10-10.0.19045-SP0
+2024-08-11 13:31:01,518:INFO:Memory: svmem(total=68473389056, available=56694792192, percent=17.2, used=11778596864, free=56694792192)
+2024-08-11 13:31:01,518:INFO:Physical Core: 8
+2024-08-11 13:31:01,518:INFO:Logical Core: 16
+2024-08-11 13:31:01,518:INFO:Checking libraries
+2024-08-11 13:31:01,518:INFO:System:
+2024-08-11 13:31:01,518:INFO:    python: 3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)]
+2024-08-11 13:31:01,518:INFO:executable: c:\Users\ksk01\anaconda3\python.exe
+2024-08-11 13:31:01,518:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-08-11 13:31:01,518:INFO:PyCaret required dependencies:
